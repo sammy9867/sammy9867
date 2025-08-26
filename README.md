@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./hello_world.png" alt="Hello World" width="500"/>
+  <img src="./hello_world.png" alt="Hello World" width="650" height="500"/>
 </p>
 
 # Hey! Nice to see you 👋
 
 ### 🧑‍💻 About Me 
-🎓 &nbsp;I hold a Bachelor's degree in Computer Science from Warsaw University of Technology.\
-🏢 &nbsp;I’m currently working as a Senior Software Engineer at Plentific, London.\
+🎓 &nbsp;I hold a Bachelor's degree in Computer Science from [Warsaw University of Technology](https://eng.pw.edu.pl/).\
+🏢 &nbsp;I’m currently working as a Senior Software Engineer at [Plentific, London](https://www.plentific.com/).\
 🚀 &nbsp;I have hands-on experience building scalable systems with Python, Django, Celery, Docker, PostgreSQL, Redis, AWS, and more.\
 🎯 &nbsp;My current goals include improving system observability, designing fault-tolerant distributed systems, and sharing more of my work with the open-source community.
 
